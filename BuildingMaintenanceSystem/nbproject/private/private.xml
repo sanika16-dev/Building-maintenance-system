@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/adminLogin.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/ComplaintServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/register.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/WEB-INF/adminDashboard.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/util/DBConnection.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/new.html</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/PayBillServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/viewPayments.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/index.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/login.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/complaint.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/UserLoginServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/userDashboard.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/payBill.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/TestDBServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/viewComplaints.jsp</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/src/java/com/bms/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/Sanika/Documents/NetBeansProjects/BuildingMaintenanceSystem/web/style.css</file>
+        </group>
+    </open-files>
+</project-private>

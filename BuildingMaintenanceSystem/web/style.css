@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background: #f4f6f9;
+}
+
+
+.navbar{
+    background: white;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 0 40px;
+    justify-content: space-between;
+    top: 0;
+    width: 100%;
+}
+
+
+
+.brand{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.layout{
+    display: flex;
+}
+
+
+.sidebar{
+    width: 240px;
+    height: 700px;
+    background: lightyellow;
+    padding: 25px 20px;
+}
+
+.sidebar h3{
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: black;
+}
+
+.sidebar a{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: white;
+    border-radius: 8px;
+    font-weight: bold;
+    color: black;
+}
+
+.sidebar a:hover{
+    background: #ffe1ad;
+}
+
+
+.main{
+    flex: 1;
+    padding: 0px;
+}
+
+
+.hero{
+    height: 700px;
+    background: url("image/buildingphoto.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.hero-overlay{
+    background: rgba(0,0,0,0.45);
+    height: 100%;
+    padding: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.hero-content{
+    max-width: 660px;
+    color: white;
+}
+
+.hero-content h1{
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+
+.hero-content p{
+    font-size: 18px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-right: 10px;
+    
+}
+
+.btn-primary{ background: #007bff; color: white; }
+.btn-success{ background: #28a745; color: white; }
+.btn-dark{ background: #222; color: white; }
+.btn-warning{ background: #ff9800; color: white; }
+
+
+.msg-error{
+    text-align: center;
+    color: red;
+    margin-bottom: 10px;
+}
+
+.page-title{
+    font-size: 26px;
+    font-weight: bold;
+    margin: 30px;
+    color: black;
+}
+
+
+.content-card{
+    background: white;
+    margin: 0 25px 25px 25px;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 650px;
+}
+
